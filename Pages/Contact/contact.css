@@ -1,0 +1,36 @@
+.contact{
+  background:#e4cf12 ;
+  padding: 40px 70px 40px 40px;
+  width: 80%;
+  text-align: center;
+  margin: 120px auto;
+}
+
+.contact h2{
+  margin-bottom: 20px;
+  font-size: 22px;
+  color:#fd4766
+}
+
+.contact p{
+  font-size: 20px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  color:#fd4766;
+}
+
+.contact p a{
+  display: inline-block;
+  color: white;
+}
+
+.contact p a:hover{
+  opacity: 0.8;
+  transition: 0.4s all ease-in;
+}
+
+.contact p img {
+  width: 20px;
+}
+
